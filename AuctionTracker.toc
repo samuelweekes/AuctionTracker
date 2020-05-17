@@ -1,0 +1,9 @@
+## Interface: 11304
+## Title: Auction Tracker
+## Author: Samuel Weekes 
+## Notes: A Standalone Classic Addon 
+## Version: 1.0.0
+## DefaultState: enabled
+## SavedVariables: TrackedAuctions, TrackedAuctionCount 
+
+AuctionTracker.lua
